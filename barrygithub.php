@@ -1,4 +1,4 @@
 <?php 
 
-echo "papel de luna";
+echo "wrong paper moon";
 ?>
